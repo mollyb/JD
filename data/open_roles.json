@@ -1,5 +1,29 @@
 [
  {
+  "company": "GoFundMe",
+  "lane": "Remote impact",
+  "love": false,
+  "title": "Director, Lifecycle Marketing",
+  "location": "Remote",
+  "url": "https://job-boards.greenhouse.io/gofundme/jobs/8380393",
+  "posted": "2026-11-18",
+  "deadline": "",
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18"
+ },
+ {
+  "company": "Airbnb",
+  "lane": "NL / EU sponsor",
+  "love": false,
+  "title": "Creative Director Copy, Social",
+  "location": "United States",
+  "url": "https://careers.airbnb.com/positions/8394407?gh_jid=8394407",
+  "posted": "2026-11-17",
+  "deadline": "",
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18"
+ },
+ {
   "company": "Mozilla",
   "lane": "Remote impact",
   "love": false,
@@ -9,7 +33,7 @@
   "posted": "2026-11-16",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -21,7 +45,7 @@
   "posted": "2026-11-12",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Fastned",
@@ -33,7 +57,7 @@
   "posted": "2026-11-11",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "SubjectToClimate",
@@ -45,7 +69,7 @@
   "posted": "2026-11-09",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Airbnb",
@@ -57,7 +81,7 @@
   "posted": "2026-11-06",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -69,7 +93,7 @@
   "posted": "2026-11-04",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Oura",
@@ -81,7 +105,7 @@
   "posted": "2026-11-03",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -93,7 +117,7 @@
   "posted": "2026-11-03",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -105,7 +129,7 @@
   "posted": "2026-10-30",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Oura",
@@ -117,19 +141,7 @@
   "posted": "2026-10-20",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
- },
- {
-  "company": "Airbnb",
-  "lane": "NL / EU sponsor",
-  "love": false,
-  "title": "Senior Growth Marketing Lead (SEO, AEO, GEO)",
-  "location": "United States",
-  "url": "https://careers.airbnb.com/positions/8280719?gh_jid=8280719",
-  "posted": "2026-10-15",
-  "deadline": "",
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -141,7 +153,7 @@
   "posted": "2026-10-13",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Vinted",
@@ -153,7 +165,7 @@
   "posted": "2026-10-12",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Airbnb",
@@ -165,7 +177,7 @@
   "posted": "2026-10-08",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -177,7 +189,7 @@
   "posted": "2026-09-24",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "GiveDirectly",
@@ -189,7 +201,7 @@
   "posted": "2026-09-16",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Airbnb",
@@ -201,19 +213,7 @@
   "posted": "2026-09-16",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
- },
- {
-  "company": "Flo Health",
-  "lane": "NL / EU other",
-  "love": false,
-  "title": "Director, Head of Global PR & Communications",
-  "location": "London",
-  "url": "https://job-boards.greenhouse.io/flohealth/jobs/7971371003",
-  "posted": "2026-08-25",
-  "deadline": "",
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "HelloFresh",
@@ -225,7 +225,7 @@
   "posted": "2026-08-21",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Wikimedia Foundation",
@@ -237,7 +237,7 @@
   "posted": "2026-08-18",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Oura",
@@ -249,7 +249,7 @@
   "posted": "2026-08-04",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Airbnb",
@@ -261,7 +261,7 @@
   "posted": "2026-06-23",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  },
  {
   "company": "Airbnb",
@@ -273,6 +273,6 @@
   "posted": "2026-04-21",
   "deadline": "",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "last_seen": "2026-11-18"
  }
 ]
